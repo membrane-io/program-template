@@ -3,6 +3,9 @@
 
   "schema": {
     "types": [
+      {
+        "name": "Root"
+      }
     ]
   },
 
