@@ -1,5 +1,12 @@
-//'use strict';
+import { root } from './schema';
 
-export function init() {
+
+export async function init() {
+}
+
+export async function update() {
+}
+
+export async function timer({ key }) {
 }
 
